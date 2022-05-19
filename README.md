@@ -31,7 +31,6 @@ until the first one has finished moving.
 
 ### Output
 The output for each rover should be its final co-ordinates and heading.
-Input and Output
 
 ### Input and Output
 
